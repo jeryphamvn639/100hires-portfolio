@@ -14,7 +14,7 @@ Environment Setup: Installed Cursor IDE on macOS.
 
 GitHub Connection: Successfully authorized Cursor to access GitHub repositories.
 
-Conflict Resolution: During the setup, I encountered a local Git synchronization delay on macOS. To ensure the assignment was delivered within the 6-hour window, I proactively used the GitHub Web Interface to initialize the repository and documentation.
+Conflict Resolution: During the setup, I encountered a local Git synchronization delay on macOS. To ensure the assignment was delivered, I proactively used the GitHub Web Interface to initialize the repository and documentation.
 
 Conclusion
 All tools are now fully operational. This process demonstrated my ability to quickly adopt new technical tools and solve unexpected hurdles to meet project deadlines.
